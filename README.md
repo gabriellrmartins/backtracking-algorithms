@@ -1,5 +1,6 @@
 # Algoritmos de Backtracking: N-Rainhas e Soma dos Subconjuntos
 
+**Repositório:** [github.com/gabriellrmartins/backtracking-algorithms](https://github.com/gabriellrmartins/backtracking-algorithms)  
 **Aluno:** Gabriel Levasseur Rocha Martins  
 **Instituição:** PUCRS  
 
